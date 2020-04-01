@@ -6,10 +6,10 @@ http://www.linkedin.com/in/xb297
 
 ### Education
 
-*Bachelor of Arts*, **Geography** (GIS track)
-*Bachelor of Arts*, **Germanics**
-University of Washington - Seattle Campus
-Expected Graduation Date: June 2021
+*Bachelor of Arts*, **Geography** (GIS track)</br>
+*Bachelor of Arts*, **Germanics**</br>
+University of Washington - Seattle Campus</br>
+Expected Graduation Date: June 2021</br>
 
 ### Experience
 
