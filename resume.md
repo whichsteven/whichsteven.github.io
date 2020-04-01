@@ -4,16 +4,16 @@ baoxq98@gmail.com
 
 http://www.linkedin.com/in/xb297
 
-### Education
+## Education
 
 *Bachelor of Arts*, **Geography** (GIS track)</br>
 *Bachelor of Arts*, **Germanics**</br>
 University of Washington - Seattle Campus</br>
 Expected Graduation Date: June 2021</br>
 
-### Experience
+## Experience
 
-#### Humanistic GIS Laboratory - University of Washington
+### Humanistic GIS Laboratory - University of Washington
 
 **Undergraduate Laboratory Assistant** (Jan 2020 - Present)
 
