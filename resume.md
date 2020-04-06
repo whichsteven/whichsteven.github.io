@@ -4,7 +4,7 @@ baoxq98@gmail.com
 
 <http://www.linkedin.com/in/xb297>
 
-##Favorite Quote
+## Favorite Quote
 >Stay Hungry, Stay Foolish. - Steve Jobs
 
 ## Education
