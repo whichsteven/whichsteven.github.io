@@ -9,7 +9,7 @@ baoxq98@gmail.com
 
 ## Education
 _Bachelor of Arts_, **Geography** (GIS track)</br>
-_Bachelor of Arts_, **Germanics**</br>
+_Bachelor of Arts_, **Germanics**</br>  
 University of Washington - Seattle Campus</br>
 Expected Graduation Date: June 2021
 
