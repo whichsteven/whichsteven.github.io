@@ -15,7 +15,7 @@ Expected Graduation Date: June 2021
 
 ## Experience
 
-###<img src="img/hgis_logo.png" alt="hgis logo" width="20"/> Humanistic GIS Laboratory - University of Washington
+### <img src="img/hgis_logo.png" alt="hgis logo" width="20"/> Humanistic GIS Laboratory - University of Washington
 **Undergraduate Laboratory Assistant** (Jan 2020 - Present)
 -   Maintain the [**Novel Coronavirus (COVID-19) Infection Map website**](https://hgis.uw.edu/virus/)
 -   Develop **Python** scripts to scrape data from different websites
