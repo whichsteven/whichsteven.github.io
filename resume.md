@@ -8,11 +8,12 @@ baoxq98@gmail.com
 >Stay Hungry, Stay Foolish. - Steve Jobs
 
 ## Education
+
+### University of Washington
+
 _Bachelor of Arts_, **Geography** (GIS track)
 
 _Bachelor of Arts_, **Germanics**
-
-University of Washington - Seattle Campus
 
 Expected Graduation Date: June 2021
 
