@@ -1,10 +1,11 @@
 # Steven Bao
 
-baoxq98@gmail.com
+<baoxq98@gmail.com>
 
 <http://www.linkedin.com/in/xb297>
 
 ## Favorite Quote
+
 >Stay Hungry, Stay Foolish. - Steve Jobs
 
 ## Education
